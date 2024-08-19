@@ -1,5 +1,5 @@
 ; archer.asm : [Archer] MnemoniX `94
-; Created with Biological Warfare - Version 0.90á by MnemoniX
+; Created with Bansa
 
 PING            equ     0AE3Bh
 PONG            equ     0CD28h
